@@ -1,4 +1,4 @@
-# 📊 Data Visualisation Project (Tableau & Power BI)
+# 📊 Tableau Data Visualisation Project
 
 ## 📌 Overview
 This project was completed during **Week 2 of a Data Technician Bootcamp**, focusing on data visualisation, dashboard design, and business insights using **Tableau and Power BI**.
