@@ -91,6 +91,11 @@ Using the Gapminder dataset:
 
 - 📊 **Interactive Dashboard**  
   Combines all visuals with filters for dynamic exploration  
+  
+---
+
+## 📈 Dashboards
+
 
 [Link to the Dashboard](https://public.tableau.com/views/HealthDashboard_17785933554180/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
