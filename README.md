@@ -16,13 +16,6 @@ The project explores global health data, music streaming data, and business inte
 - Sorting and Top N filtering
 - Data storytelling and insight generation
 
-### 🟨 Power BI
-- Data cleaning and transformation (Power Query)
-- Report design and visualisation
-- Data modelling basics
-- DAX calculations (introductory level)
-- Publishing and sharing reports
-
 ---
 
 ## 📊 Data Visualisation Techniques
